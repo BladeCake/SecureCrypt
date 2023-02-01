@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecureCrypt", "SecureCrypt\SecureCrypt.csproj", "{0F2E3205-BB78-4FFA-9905-29282FCC6E03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B09E786E-ABB1-49FE-8124-08936A1C7DF3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2E3205-BB78-4FFA-9905-29282FCC6E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2E3205-BB78-4FFA-9905-29282FCC6E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2E3205-BB78-4FFA-9905-29282FCC6E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2E3205-BB78-4FFA-9905-29282FCC6E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E64C868-0802-4E4E-99C9-B8A3D17B12C5}
+	EndGlobalSection
+EndGlobal

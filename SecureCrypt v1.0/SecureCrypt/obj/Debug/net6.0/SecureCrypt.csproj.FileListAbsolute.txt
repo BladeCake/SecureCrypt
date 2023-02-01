@@ -1,0 +1,15 @@
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\bin\Debug\net6.0\SecureCrypt.exe
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\bin\Debug\net6.0\SecureCrypt.deps.json
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\bin\Debug\net6.0\SecureCrypt.runtimeconfig.json
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\bin\Debug\net6.0\SecureCrypt.dll
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\bin\Debug\net6.0\SecureCrypt.pdb
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\obj\Debug\net6.0\SecureCrypt.csproj.AssemblyReference.cache
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\obj\Debug\net6.0\SecureCrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\obj\Debug\net6.0\SecureCrypt.AssemblyInfoInputs.cache
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\obj\Debug\net6.0\SecureCrypt.AssemblyInfo.cs
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\obj\Debug\net6.0\SecureCrypt.csproj.CoreCompileInputs.cache
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\obj\Debug\net6.0\SecureCrypt.dll
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\obj\Debug\net6.0\refint\SecureCrypt.dll
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\obj\Debug\net6.0\SecureCrypt.pdb
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\obj\Debug\net6.0\SecureCrypt.genruntimeconfig.cache
+C:\Users\Travis#\Documents\1 Coding Projects\SecureCrypt\SecureCrypt\obj\Debug\net6.0\ref\SecureCrypt.dll
